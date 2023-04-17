@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-LIU629&show_icons=true&theme=tokyonight)
 
 
-- 🔭 I’m currently working on Computer vision
-- 🌱 I’m currently learning Deep Learning  on Couesera
+- 🔭 I’m currently studying at UIUC
 - 👯 I’m looking to collaborate on Autopilot
 - 📫 How to reach me: wilson000629@gmail.com
